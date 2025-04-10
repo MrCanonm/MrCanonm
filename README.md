@@ -38,19 +38,18 @@ Soy un desarrollador apasionado por la tecnología, la programación limpia y lo
 ### 🌱 Actualmente aprendiendo
 
 - Clean Architecture & DDD
-- Vue 3 y Pinia
 - C# + .NET para backends robustos
 
 ---
 
 ### 📫 Contacto
 
-- Email: [tucorreo@example.com]
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- Twitter/X: [@tuusuario](https://twitter.com/tuusuario)
+- Email: [luis03301@hotmail.com]
+- LinkedIn: [https://www.linkedin.com/in/luis-daniel-marquez-morillo/]
+- Twitter/X: [@tuusuario](https://twitter.com/mrcanonm)
 
 ---
 
 ### ⚡ Fun fact
 
-Siempre que me enfrento a un error, ya sé que estoy a punto de aprender algo nuevo 😄
+Nunca pierdo, gano o aprendo algo nuevo 😄
