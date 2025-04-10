@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm [Tu Nombre o Usuario]
+## 👋 Hi there! I'm Luis Daniel Marquez Morillo
 
 Soy un desarrollador apasionado por la tecnología, la programación limpia y los proyectos que impactan de verdad. Me encanta aprender cosas nuevas y compartir conocimiento con la comunidad.
 
@@ -29,8 +29,9 @@ Soy un desarrollador apasionado por la tecnología, la programación limpia y lo
 
 ### 📌 Proyectos destacados
 
-- 🔧 **[Mi Proyecto 1](https://github.com/MrCanonm/mi-proyecto-1)** — Breve descripción.
-- 💼 **[Mi Portafolio](https://github.com/MrCanonm/mi-portafolio)** — Portafolio web desarrollado con Astro + Tailwind.
+- 🔧 **[Mi Proyecto 1](https://github.com/MrCanonm/WalletopiaAPI)** — Api de una app de gestion financiera.
+- 🔧 **[Mi Proyecto 2](https://github.com/MrCanonm/Send-Email-Api)** — Api de envio de correos con plantillas personalizadas.
+- 💼 **[Mi Portafolio](https://github.com/MrCanonm/Send-Email-Api)** — Portafolio web desarrollado con Astro + Tailwind.
 
 ---
 
