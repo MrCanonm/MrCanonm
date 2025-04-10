@@ -44,9 +44,9 @@ Soy un desarrollador apasionado por la tecnología, la programación limpia y lo
 
 ### 📫 Contacto
 
-- Email: [luis03301@hotmail.com]
-- LinkedIn: [https://www.linkedin.com/in/luis-daniel-marquez-morillo/]
-- Twitter/X: [@tuusuario](https://twitter.com/mrcanonm)
+- Email: luis03301@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/luis-daniel-marquez-morillo/
+- Twitter/X: https://twitter.com/mrcanonm
 
 ---
 
